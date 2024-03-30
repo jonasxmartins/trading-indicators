@@ -1,5 +1,5 @@
-# This code is my contribution for the Quantitative Finance Club
+## This code is my contribution for the Quantitative Finance Club
 
-### The first file was a task for the application process
+#### *aggregation.py* was a task given during the application process to the club.
 
-### The other two were performed in collaboration with another Quantitative Developer and was the culmination of many weeks of work. 
+#### *id-replication.py* was implemented with the assistance of another Quantitative Developer and supervision and guidance of our team leader. It was the culmination of many weeks of work, and learning about WRDS Formulas and distributed processing libraries.
