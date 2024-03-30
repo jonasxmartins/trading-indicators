@@ -1,4 +1,4 @@
-## This code is my contribution for the Quantitative Finance Club
+## This repository contains some of my past contributions to the Quantitative Finance Club.
 
 #### *aggregation.py* was a task given during the application process to the club.
 
