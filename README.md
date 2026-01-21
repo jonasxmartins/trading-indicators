@@ -47,6 +47,6 @@ I am currently finishing my final year at the University of Toronto (Class of 20
 ## 📫 Connect with me
 * **Email:** [jonas.martins@mail.utoronto.ca](mailto:jonas.martins@mail.utoronto.ca)
 * **GitHub:** [@jonasxmartins](https://github.com/jonasxmartins)
-* **LinkedIn:** [linkedin.com/in/jonasxmartins](https://www.linkedin.com/in/jonasxmartins)
+* **LinkedIn:** [linkedin.com/in/jonas-mart](https://www.linkedin.com/in/jonas-mart/)
 
 ---
